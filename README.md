@@ -6,7 +6,7 @@
 
 Description
 ========
-LED 模組，採共陽連接 ( LED 正極連接在一起 )，目前有 1、2、3、4、8 顆 LED 並聯五種。
+LED 模組，採共陽連接 ( LED 正極連接在一起 )，On - 0, Off - 1。
 
 License
 ========
@@ -18,7 +18,7 @@ License
 Hardware
 ========
 * 設計軟體 [Altium Designer 14](http://www.altium.com/en/products/altium-designer) ( PcbLib use AD [PcbLib v1.0](https://github.com/KitSprout/AltiumDesigner_PcbLibrary/releases/tag/v1.0) ) 
-* PCB 尺寸 :
+* PCB 尺寸 :  
 LED0805-1 -> 400x100 mil  
 LED0805-2 -> 400x200 mil  
 LED0805-3 -> 400x300 mil  
