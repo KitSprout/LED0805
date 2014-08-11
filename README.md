@@ -1,4 +1,4 @@
-[LED0805](https://github.com/QCopter/QCopterFlightControl)
+[LED0805](https://github.com/KitSprout/LED0805)
 ========
 * Author  : [Hom](https://about.me/Hom)
 * Version : v1.0
@@ -6,6 +6,7 @@
 
 Description
 ========
+LED 模組，採共陽連接 ( LED 正極連接在一起 )，目前有 1、2、3、4、8 顆 LED 並聯五種。
 
 License
 ========
