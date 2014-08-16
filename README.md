@@ -31,6 +31,7 @@ Related Documents
 
 View
 ========
+<img src="https://lh3.googleusercontent.com/-Zij7xRUoNCk/U-7GbCPoXtI/AAAAAAAAKY4/mgMOdFvthQA/s1600/DSC_2402.jpg" />
 <img src="https://lh6.googleusercontent.com/-zN027OCyF78/U-7GZoRp1tI/AAAAAAAAKYs/h8MAeSVommE/s1600/DSC_2398.jpg" />
 
 Schematic
